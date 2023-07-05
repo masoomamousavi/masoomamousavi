@@ -10,7 +10,7 @@ so feel free to reach out to me anytime😊. I would also appreciate any feedbac
 - 🌱 I’m currently learning web design.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 🎯 I'm aimed to be the best in web designing and programming.
-- 📫 You can contact with me in linkdin:👇
+- 📫 You can contact with me in linkdin:👉
 https://www.linkedin.com/in/masooma-mousavi-7a17b727b
 <!---
 masoomamousavi/masoomamousavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
