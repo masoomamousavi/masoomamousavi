@@ -1,4 +1,4 @@
-Hi dear friends👋🤗
+Hi dears👋
 
 I’m Masouma Mousavi, a new front-end developer who is eager to learn and create amazing websites.
 I have learned HTML, CSS, Bootstrap, and GitHub through online courses and projects.
