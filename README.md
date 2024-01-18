@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋</h1>
-<h3 align="center"> Masooma Mousavi, a results-driven Front-end Developer with a passion for crafting engaging and responsive web experiences. Proficient in JavaScript, Bootstrap, Html, CSS, Git, and GitHub, I've honed my skills through real-world projects and continues learning .As a passionate developer, I thrive on crafting sleek, user-centric designs.</h3>
+<h3 align="center"> I'm Masooma Mousavi, a results-driven Front-end Developer with a passion for crafting engaging and responsive web experiences. Proficient in JavaScript, Bootstrap, Html, CSS, Git, and GitHub, I've honed my skills through real-world projects and continues learning .As a passionate developer, I thrive on crafting sleek, user-centric designs.</h3>
 
 - 🌱 I’m currently learning **React**
 
