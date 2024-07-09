@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **masoomamosavi9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JUBTTXhQs_TR7V1gow88SP3PbAftaDZZ/view?usp=sharing](https://drive.google.com/file/d/1JUBTTXhQs_TR7V1gow88SP3PbAftaDZZ/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1Q_GNRnxiPW4-CAA_krj6S2d8B1LWxhDI/view?usp=drive_link
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/masooma mousavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masooma mousavi" height="30" width="40" /></a>
